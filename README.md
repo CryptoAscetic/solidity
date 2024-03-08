@@ -23,10 +23,6 @@
 //            佛祖保佑       永不宕机     永远发财                    //
 ```
 
-${AnsiColor.BRIGHT_RED}
-Application Version: ${application.version}${application.formatted-version}
-Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
-
 ### 3.7
 
 https://github.com/huangfengge/solidity/blob/main/2024/3-month/7-day/project.md

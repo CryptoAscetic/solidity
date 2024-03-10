@@ -31,10 +31,10 @@
 
 [project.md](2024%2F3-month%2F9-day%2Fproject.md)
 
-### 3.7
-
-https://github.com/huangfengge/solidity/blob/main/2024/3-month/7-day/project.md
-
 ### 3.8
 
-https://github.com/huangfengge/solidity/blob/main/2024/3-month/8-day/project.md
+[project.md](2024%2F3-month%2F8-day%2Fproject.md)
+
+### 3.7
+
+[project.md](2024%2F3-month%2F7-day%2Fproject.md)

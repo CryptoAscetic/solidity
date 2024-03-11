@@ -7,3 +7,13 @@
 ```shell
 CyfE3Yye6KsEv1hJLTwZujvQQb3JsWLBT31UVZgSwqB1
 ```
+
+### 3.light -Buy:0.009
+
+https://lightningai.site/
+
+- 闪电网络，ai啥的都往上写，小心点上
+
+```shell
+HccFtxgKoYEf5dNaa5FoL2PCeMk4p4Gi9KHLvFxyF298
+```

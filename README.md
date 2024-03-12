@@ -33,12 +33,12 @@ print("5.高倍项目10-30倍一定要出一大部分，否则跌下来就后悔
 print("6.出家人不打诳语，南无阿弥陀佛")
 ```
 
-| 日期   | 项目链接地址                                             | 今日幸运数字 |
-|------|----------------------------------------------------|--------|
-| 3.12 | [project.md](2024%2F3-month%2F12-day%2Fproject.md) | 4      |
-| 3.11 | [project.md](2024%2F3-month%2F11-day%2Fproject.md) | 2      |
-| 3.10 | [project.md](2024%2F3-month%2F10-day%2Fproject.md) | 2      |
-| 3.09 | [project.md](2024%2F3-month%2F09-day%2Fproject.md) | 2      |
-| 3.08 | [project.md](2024%2F3-month%2F8-day%2Fproject.md)  | 2      |
-| 3.07 | [project.md](2024%2F3-month%2F7-day%2Fproject.md)  | 2      |
+| 日期   | 项目链接地址                                             | 今日幸运数字 | 复盘              |
+|------|----------------------------------------------------|--------|-----------------|
+| 3.12 | [project.md](2024%2F3-month%2F12-day%2Fproject.md) | 4      | 太jb冲动了          |
+| 3.11 | [project.md](2024%2F3-month%2F11-day%2Fproject.md) | 2      | 亏钱的一天           |
+| 3.10 | [project.md](2024%2F3-month%2F10-day%2Fproject.md) | 2      | 出了两个金狗SOLC和epep |
+| 3.09 | [project.md](2024%2F3-month%2F09-day%2Fproject.md) | 2      | 无聊              |
+| 3.08 | [project.md](2024%2F3-month%2F8-day%2Fproject.md)  | 2      | 无聊              |
+| 3.07 | [project.md](2024%2F3-month%2F7-day%2Fproject.md)  | 2      | 没第一时间卖          |
 

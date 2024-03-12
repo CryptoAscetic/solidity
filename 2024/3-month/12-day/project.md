@@ -4,7 +4,7 @@ https://app.zenith.farm/w-checker/
 
 ## 2.GEGGLE-Buy:0.0006
 
-- google名称的错版，难道现在流行，但是没啥价值，赚了跑
+- google名称的错版，难道现在流行，但是没啥价值，赚了跑最后肯定归零
 
   https://geggleonsol.xyz
 

@@ -2,14 +2,11 @@
 
 https://app.zenith.farm/w-checker/
 
-## 2.dune接口-简单快速地构建数据工具
+## 2.GEGGLE-Buy:0.0006
 
-https://dune.com/
+- google名称的错版，难道现在流行
+  https://geggleonsol.xyz
 
-## 3.在线分析 ide
-
-https://ide.bitquery.io/#
-
-## 4.接口api
-
-https://docs.dexscreener.com/api/reference
+```shell
+Gyo31CTMAftma1VbZuaLKx9yUByNktE75Pp9ujJUpDyZ
+```

@@ -21,33 +21,24 @@
 //                           `=---='                              //
 //      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        //
 //            佛祖保佑       永不宕机     永远发财                    //
-佛祖语录：
-1.所有项目都是土狗，千万不能贪多;
-2.不要在一个狗上贪恋爱，该放手就放手;
-3.加仓要慢慢加，不能一口吃个胖子;
-4.看好的项目一定留一个底仓；
-5.高倍项目10-30倍一定要出一大部分，否则跌下来就后悔了。
 ```
 
-### 3.12
+```python
+print("佛祖语录：");
+print("1.所有项目都是土狗，千万不能贪多;");
+print("2.不要在一个狗上贪恋爱，该放手就放手;");
+print("3.加仓要慢慢加，不能一口吃个胖子;");
+print("4.看好的项目一定留一个底仓；");
+print("5.高倍项目10-30倍一定要出一大部分，否则跌下来就后悔了。");
+print("6.南无阿弥陀佛");
+```
 
-[project.md](2024%2F3-month%2F12-day%2Fproject.md)
-### 3.11
+| 日期   | 项目链接地址                                             |
+|------|----------------------------------------------------|
+| 3.12 | [project.md](2024%2F3-month%2F12-day%2Fproject.md) |
+| 3.11 | [project.md](2024%2F3-month%2F11-day%2Fproject.md) |
+| 3.10 | [project.md](2024%2F3-month%2F10-day%2Fproject.md) |
+| 3.09 | [project.md](2024%2F3-month%2F09-day%2Fproject.md) |
+| 3.08 | [project.md](2024%2F3-month%2F8-day%2Fproject.md)  |
+| 3.07 | [project.md](2024%2F3-month%2F7-day%2Fproject.md)  |
 
-[project.md](2024%2F3-month%2F11-day%2Fproject.md)
-
-### 3.10
-
-[project.md](2024%2F3-month%2F10-day%2Fproject.md)
-
-### 3.9
-
-[project.md](2024%2F3-month%2F9-day%2Fproject.md)
-
-### 3.8
-
-[project.md](2024%2F3-month%2F8-day%2Fproject.md)
-
-### 3.7
-
-[project.md](2024%2F3-month%2F7-day%2Fproject.md)

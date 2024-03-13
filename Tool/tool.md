@@ -27,3 +27,7 @@ https://docs.dexscreener.com/api/reference
 
 - usdc-对btc的例子
   https://jup.ag/swap/USDC-BTC_BQTAjCpcL8cZjwih2FerdbBLQT7TLSWXZgnnBhRA1ey3
+
+## 6.STL转换PLY
+
+https://imagetostl.com/cn/convert/file/stl/to/ply

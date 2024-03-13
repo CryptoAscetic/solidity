@@ -1,5 +1,7 @@
 ## 1.记录每天做过的项目，看能不能发发财
 
+推特：https://twitter.com/huang_fengge
+
 ```shell
 //                          _ooOoo_                               //
 //                         o8888888o                              //

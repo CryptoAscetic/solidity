@@ -19,3 +19,11 @@ https://ide.bitquery.io/#
 ## 4.接口api
 
 https://docs.dexscreener.com/api/reference
+
+## 5. JUP快速交易配对
+
+- 例子：btc对usdc
+  https://jup.ag/swap/BTC_BQTAjCpcL8cZjwih2FerdbBLQT7TLSWXZgnnBhRA1ey3-USDC
+
+- usdc-对btc的例子
+  https://jup.ag/swap/USDC-BTC_BQTAjCpcL8cZjwih2FerdbBLQT7TLSWXZgnnBhRA1ey3

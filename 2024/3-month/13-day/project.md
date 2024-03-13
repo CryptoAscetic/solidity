@@ -1,4 +1,4 @@
-## 1.BTC
+## 1.BTC-Buy-$0.00039
 
 https://twitter.com/nakahobo
 

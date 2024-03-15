@@ -38,6 +38,7 @@ print("7.出家人不打诳语，南无阿弥陀佛")
 
 | 日期   | 项目链接地址                                             | 今日幸运数字 | 今日复盘                 |
 |------|----------------------------------------------------|--------|----------------------|
+| 3.15 | [project.md](2024%2F3-month%2F15-day%2Fproject.md) | 1      | 暴富BOME拿好，epep被套了     |
 | 3.14 | [project.md](2024%2F3-month%2F14-day%2Fproject.md) | 6      | 没有金狗，辛巴没拿住           |
 | 3.13 | [project.md](2024%2F3-month%2F13-day%2Fproject.md) | 8      | 开始狙击                 |
 | 3.12 | [project.md](2024%2F3-month%2F12-day%2Fproject.md) | 4      | 太jb冲动了，而且nick直接卖飞55倍 |

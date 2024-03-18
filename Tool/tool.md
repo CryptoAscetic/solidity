@@ -35,3 +35,7 @@ https://imagetostl.com/cn/convert/file/stl/to/ply
 ## 7.最好用的sol链
 
 https://photon-sol.tinyastro.io/
+
+## 8. dexlap平台
+
+https://www.dexlab.space/mintinglab/spl-token

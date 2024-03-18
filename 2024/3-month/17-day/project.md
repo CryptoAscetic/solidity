@@ -9,7 +9,7 @@ Sodi is the first royalty inscription protocol on
 在IEO之后，我们将正式开始$SODI空投，并同步盒子和公牛NFT的分配。积分持有者可以获得第一轮$SODI空投。空投完成后，积分系统将正式关闭。请检查您的$SODI，盒子和NFT。
 ```
 
-Solana + Ordi = 的概念
+Solana + Ordi = 的概念，我认为SOL已经崛起，炒作一波还是可以赚钱的
 
 https://www.sodi.ai/inscription
 

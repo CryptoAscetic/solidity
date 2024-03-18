@@ -37,17 +37,18 @@ print("7.要以小博大，不能以大博小，否则你将很快出局")
 print("8.出家人不打诳语，南无阿弥陀佛")
 ```
 
-| 日期   | 项目链接地址                                             | 今日幸运数字 | 今日复盘                        |
-|------|----------------------------------------------------|--------|-----------------------------|
-| 3.17 | [project.md](2024%2F3-month%2F17-day%2Fproject.md) | 1      | 捐了8个                        |
-| 3.16 | [project.md](2024%2F3-month%2F16-day%2Fproject.md) | 1      | bibi没有暴富，好他妈恶心，其他狗亏了7sol，亏麻 |
-| 3.15 | [project.md](2024%2F3-month%2F15-day%2Fproject.md) | 1      | 暴富BOME拿好，epep被套了            |
-| 3.14 | [project.md](2024%2F3-month%2F14-day%2Fproject.md) | 6      | 没有金狗，辛巴没拿住                  |
-| 3.13 | [project.md](2024%2F3-month%2F13-day%2Fproject.md) | 8      | 开始狙击                        |
-| 3.12 | [project.md](2024%2F3-month%2F12-day%2Fproject.md) | 4      | 太jb冲动了，而且nick直接卖飞55倍        |
-| 3.11 | [project.md](2024%2F3-month%2F11-day%2Fproject.md) | 2      | 亏钱的一天                       |
-| 3.10 | [project.md](2024%2F3-month%2F10-day%2Fproject.md) | 2      | 出了两个金狗SOLC和epep             |
-| 3.09 | [project.md](2024%2F3-month%2F09-day%2Fproject.md) | 2      | 无聊                          |
-| 3.08 | [project.md](2024%2F3-month%2F8-day%2Fproject.md)  | 2      | 无聊                          |
-| 3.07 | [project.md](2024%2F3-month%2F7-day%2Fproject.md)  | 2      | 没第一时间卖                      |
+| 日期   | 项目链接地址                                             | 今日幸运数字 | 今日复盘                         |
+|------|----------------------------------------------------|--------|------------------------------|
+| 3.18 | [project.md](2024%2F3-month%2F18-day%2Fproject.md) | 4      | 撸撸毛，看了一下9号冲的kit已经25倍了。开心的不得了 |
+| 3.17 | [project.md](2024%2F3-month%2F17-day%2Fproject.md) | 1      | 捐了8个sol，冲狗nos、nap和like直接亏麻了  |
+| 3.16 | [project.md](2024%2F3-month%2F16-day%2Fproject.md) | 1      | bibi没有暴富，好他妈恶心，其他狗亏了7sol，亏麻  |
+| 3.15 | [project.md](2024%2F3-month%2F15-day%2Fproject.md) | 1      | 暴富BOME拿好，epep被套了             |
+| 3.14 | [project.md](2024%2F3-month%2F14-day%2Fproject.md) | 6      | 没有金狗，辛巴没拿住                   |
+| 3.13 | [project.md](2024%2F3-month%2F13-day%2Fproject.md) | 8      | 开始狙击                         |
+| 3.12 | [project.md](2024%2F3-month%2F12-day%2Fproject.md) | 4      | 太jb冲动了，而且nick直接卖飞55倍         |
+| 3.11 | [project.md](2024%2F3-month%2F11-day%2Fproject.md) | 2      | 亏钱的一天                        |
+| 3.10 | [project.md](2024%2F3-month%2F10-day%2Fproject.md) | 2      | 出了两个金狗SOLC和epep              |
+| 3.09 | [project.md](2024%2F3-month%2F09-day%2Fproject.md) | 2      | 无聊                           |
+| 3.08 | [project.md](2024%2F3-month%2F8-day%2Fproject.md)  | 2      | 无聊                           |
+| 3.07 | [project.md](2024%2F3-month%2F7-day%2Fproject.md)  | 2      | 没第一时间卖                       |
 

@@ -15,6 +15,31 @@ https://www.sodi.ai/inscription
 
 https://www.sodi.ai/inscription
 
-## NAP和Nos like直接亏麻
+## 2.NAP和Nos like直接亏麻
 
 ![86f12c3c9bb2aa6fd6954c7d923fa3e.jpg](86f12c3c9bb2aa6fd6954c7d923fa3e.jpg)
+
+## 3.smol
+
+https://smolerc.com/
+https://twitter.com/0xDekadente
+
+```smol
+Smol 有关$smole启动的详细信息：
+
+明天晚上，我们不会透露确切的时间，以避免机器人...... UTC 时区
+
+空投将在 LP 之前而不是之后进行。
+
+4200亿$smole ：50%预售，50%给LP
+
+非常小的百分比将分配给乘数（那些分享钱包并转发发布推文的人）
+
+所有未达到 1 SOL 或在截止时间后发送的资金将被退还。
+
+我们正在煮一些东西！请继续关注即将发生的事情，它很大
+```
+
+![302f9340423d077ed5bcda012c85cf1.jpg](302f9340423d077ed5bcda012c85cf1.jpg)
+
+![34642cdf73c8df293e028321e36921b.jpg](34642cdf73c8df293e028321e36921b.jpg)

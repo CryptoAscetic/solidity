@@ -34,14 +34,20 @@ print("4.看好的项目一定留一个底仓；")
 print("5.高倍项目10-30倍一定要出一大部分，否则跌下来就后悔了。")
 print("6.拿到一个Token先观察，不着急买，看一下项目方，自己做个初步判断上的仓位")
 print("7.要以小博大，不能以大博小，否则你将很快出局")
-print("8.出家人不打诳语，南无阿弥陀佛")
+print("8.如果使用机器人冲，如果赚钱了立即卖，不要后悔")
+print("9.机会是跌出来的，不是冲出来的")
+print("10.出家人不打诳语，南无阿弥陀佛")
 ```
 
 ## 3月份复盘记录
 
 | 日期   | 项目链接地址                                             | 今日幸运数字 | 今日复盘                                                     |
 |------|----------------------------------------------------|--------|----------------------------------------------------------|
-| 3.22 | [project.md](2024%2F3-month%2F22-day%2Fproject.md) | 8      | 解套的路上                                                    |
+| 3.27 | [project.md](2024%2F3-month%2F27-day%2Fproject.md) | 8      | 今天没上狗，长拿kit、solc、bome、树懒、solc                            |
+| 3.26 | [project.md](2024%2F3-month%2F26-day%2Fproject.md) | 4      | 今天没上狗，长拿kit、solc、bome、树懒、solc                            |
+| 3.25 | [project.md](2024%2F3-month%2F25-day%2Fproject.md) | 4      | 今天没上狗，长拿kit、solc、bome、树懒、solc                            |
+| 3.24 | [project.md](2024%2F3-month%2F24-day%2Fproject.md) | 4      | 今天没上狗，长拿kit、solc、bome、树懒、solc                            |
+| 3.23 | [project.md](2024%2F3-month%2F23-day%2Fproject.md) | 4      | 今天没上狗，长拿kit、solc、bome、树懒、solc                            |
 | 3.21 | [project.md](2024%2F3-month%2F21-day%2Fproject.md) | 8      | 青蛙被套，死拿bome和树懒，因为通缩了                                     |
 | 3.20 | [project.md](2024%2F3-month%2F20-day%2Fproject.md) | 0      | 今天看看pogai和ordi把坐等暴富                                      |
 | 3.19 | [project.md](2024%2F3-month%2F19-day%2Fproject.md) | 4      | 别人骂的时候你就建一个底仓，准没错，人多的地方不要贪多，操作不要太频繁                      |

@@ -43,6 +43,7 @@ print("10.出家人不打诳语，南无阿弥陀佛")
 
 | 日期   | 项目链接地址                                             | 今日幸运数字 | 今日复盘                                                     |
 |------|----------------------------------------------------|--------|----------------------------------------------------------|
+| 3.30 | [project.md](2024%2F3-month%2F30-day%2Fproject.md) | 2      | 今天上了$mfer拉菲， 进去用机器人把，base上的干起来                           |
 | 3.29 | [project.md](2024%2F3-month%2F29-day%2Fproject.md) | 8      | 今天上了SHOL，被套，长拿kit、solc、bome、树懒、solc                      |
 | 3.28 | [project.md](2024%2F3-month%2F28-day%2Fproject.md) | 8      | 今天上了COS和wif猫，目前3倍，长拿kit、solc、bome、树懒、solc                |
 | 3.27 | [project.md](2024%2F3-month%2F27-day%2Fproject.md) | 8      | 今天没上狗，长拿kit、solc、bome、树懒、solc                            |

@@ -1,9 +1,9 @@
-## 1.SHOL-buy$0.{3}162
+## base机器人
 
-- 考拉，本以为很厉害，但是感觉很厉害，530的时候没有卖。后悔，目前没有盈利
+Base链meme季来啦！这个Sigma TG机1器人支持Base链抢土狗，可以先备着资金，有好项目就冲！
+https://t.me/Sigma_buyBot?start=ref=1771817671
 
-```text
-Tess17AiFXjm6HhnQGvhZLR1DAzUEND56eG1wJ1k2qJ
-```
+## sol机器人
 
-![img.png](img.png)
+没用机器人的用起来
+https://t.me/pepeboost_sol01_bot?start=ref_06re9b

@@ -10,3 +10,12 @@
 
 Fantasy NFT领取网址：https://www.enkixyz.com/fantasy
 ```
+
+## FMOB
+
+FCk7LdUZBt6gg6zha7keWZCUZUPXvpvLQscKcLrWiiFZ
+https://twitter.com/FrenchieMob_AI
+
+## CMC- 0.0014
+
+A6Nb2TqmXizHoz65oL3gxCKL7pCac3hXL4t1RCW3aDR5

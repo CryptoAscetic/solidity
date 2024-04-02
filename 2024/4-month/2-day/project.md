@@ -19,3 +19,18 @@ https://twitter.com/FrenchieMob_AI
 ## CMC- 0.0014
 
 A6Nb2TqmXizHoz65oL3gxCKL7pCac3hXL4t1RCW3aDR5
+
+## TCAT
+
+H94dHwwaRPhCAcSzhcW4ViY6PdmgMmvmEahvTUjHXAKn
+
+```commandline
+🎉 #TESLACAT预售已满 - 启动时间即将到来
+
+🐈大新闻！我们的#TESLACAT预售刚刚达到 500 SOL 的目标！没错，我们很快就满了。祝贺所有参与我们预售的人。发布日即将到来，敬请期待更多更新！
+
+🔜上线时间：4月3日 13:30 UTC
+⚙️ Dex：Raydium（Solana 链）
+
+```
+

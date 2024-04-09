@@ -43,7 +43,13 @@ print("10.出家人不打诳语，南无阿弥陀佛")
 
 | 日期  | 项目链接地址                                            | 今日幸运数字 | 今日复盘                           |
 |-----|---------------------------------------------------|--------|--------------------------------|
-| 4.3 | [project.md](2024%2F4-month%2F3-day%2Fproject.md) | 2      | 大早上亏5个sol，千万别加仓                |
+| 4.9 | [project.md](2024%2F4-month%2F9-day%2Fproject.md) | 4      | pups拿好， 赚就卖，下一个更美好             |
+| 4.8 | [project.md](2024%2F4-month%2F8-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
+| 4.7 | [project.md](2024%2F4-month%2F7-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
+| 4.6 | [project.md](2024%2F4-month%2F6-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
+| 4.5 | [project.md](2024%2F4-month%2F5-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
+| 4.4 | [project.md](2024%2F4-month%2F4-day%2Fproject.md) | 2      | 赚就卖，下一个更美好                     |
+| 4.3 | [project.md](2024%2F4-month%2F3-day%2Fproject.md) | 2      | 赚就卖，下一个更美好                     |
 | 4.2 | [project.md](2024%2F4-month%2F2-day%2Fproject.md) | 2      | bome开始启动，开到0.05                |
 | 4.1 | [project.md](2024%2F4-month%2F1-day%2Fproject.md) | 2      | 今天上了$mfer拉菲， 进去用机器人把，base上的干起来 |
 

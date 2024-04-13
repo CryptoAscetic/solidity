@@ -39,19 +39,35 @@ print("9.机会是跌出来的，不是冲出来的")
 print("10.出家人不打诳语，南无阿弥陀佛")
 ```
 
+```python
+print("八种世界顶级思维:")
+print("1、墨菲定律:心里越害怕什么就越会发生什么。")
+print("2、吉德林法则:把问题清楚的写下来，问题就已经解决一半了。")
+print("3.吉尔伯特定律:工作中的最大问题就是没人跟你说该如何去做。")
+print("4、洪尔森法则:把信息和金钱排在第一位，金钱自然就会到来。")
+print("5、福克兰定律:没必要做决定时就不要去做決定。")
+print("6、彼得原理:在一个等级制度中能否晋升到更高的位置，与现在工作做得好坏，没有直接关系。  ")
+print("7、破窗理论:一件事物的破损，如果不及时补救，就会滋生更多的负面事件。")
+print("8、华盛顿合作定律:人多不一定高效，要想防止窝里斗，就要制定合适的制度。")
+```
+
 ## 4月份复盘记录
 
-| 日期  | 项目链接地址                                            | 今日幸运数字 | 今日复盘                           |
-|-----|---------------------------------------------------|--------|--------------------------------|
-| 4.9 | [project.md](2024%2F4-month%2F9-day%2Fproject.md) | 4      | pups拿好， 赚就卖，下一个更美好             |
-| 4.8 | [project.md](2024%2F4-month%2F8-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
-| 4.7 | [project.md](2024%2F4-month%2F7-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
-| 4.6 | [project.md](2024%2F4-month%2F6-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
-| 4.5 | [project.md](2024%2F4-month%2F5-day%2Fproject.md) | 4      | 赚就卖，下一个更美好                     |
-| 4.4 | [project.md](2024%2F4-month%2F4-day%2Fproject.md) | 2      | 赚就卖，下一个更美好                     |
-| 4.3 | [project.md](2024%2F4-month%2F3-day%2Fproject.md) | 2      | 赚就卖，下一个更美好                     |
-| 4.2 | [project.md](2024%2F4-month%2F2-day%2Fproject.md) | 2      | bome开始启动，开到0.05                |
-| 4.1 | [project.md](2024%2F4-month%2F1-day%2Fproject.md) | 2      | 今天上了$mfer拉菲， 进去用机器人把，base上的干起来 |
+| 日期   | 项目链接地址                                             | 今日幸运数字 | 今日复盘                           |
+|------|----------------------------------------------------|--------|--------------------------------|
+| 4.13 | [project.md](2024%2F4-month%2F12-day%2Fproject.md) | 4      | pups拿好， 今天黑天鹅，纪念413，抄底了        |
+| 4.12 | [project.md](2024%2F4-month%2F12-day%2Fproject.md) | 4      | pups拿好， 赚就卖，下一个更美好             |
+| 4.11 | [project.md](2024%2F4-month%2F11-day%2Fproject.md) | 4      | pups拿好， 赚就卖，下一个更美好             |
+| 4.10 | [project.md](2024%2F4-month%2F10-day%2Fproject.md) | 4      | pups拿好， 赚就卖，下一个更美好             |
+| 4.9  | [project.md](2024%2F4-month%2F9-day%2Fproject.md)  | 4      | pups拿好， 赚就卖，下一个更美好             |
+| 4.8  | [project.md](2024%2F4-month%2F8-day%2Fproject.md)  | 4      | 赚就卖，下一个更美好                     |
+| 4.7  | [project.md](2024%2F4-month%2F7-day%2Fproject.md)  | 4      | 赚就卖，下一个更美好                     |
+| 4.6  | [project.md](2024%2F4-month%2F6-day%2Fproject.md)  | 4      | 赚就卖，下一个更美好                     |
+| 4.5  | [project.md](2024%2F4-month%2F5-day%2Fproject.md)  | 4      | 赚就卖，下一个更美好                     |
+| 4.4  | [project.md](2024%2F4-month%2F4-day%2Fproject.md)  | 2      | 赚就卖，下一个更美好                     |
+| 4.3  | [project.md](2024%2F4-month%2F3-day%2Fproject.md)  | 2      | 赚就卖，下一个更美好                     |
+| 4.2  | [project.md](2024%2F4-month%2F2-day%2Fproject.md)  | 2      | bome开始启动，开到0.05                |
+| 4.1  | [project.md](2024%2F4-month%2F1-day%2Fproject.md)  | 2      | 今天上了$mfer拉菲， 进去用机器人把，base上的干起来 |
 
 ## 3月份复盘记录
 

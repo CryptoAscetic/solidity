@@ -15,5 +15,4 @@ https://t.me/BlumCryptoBot/app?startapp=ref_cmIT1CApm8
 https://t.me/hamster_kOmbat_bot/start?startapp=kentId1771817671
 
 ## 3.pixelver
-
 https://t.me/pixelversexyzbot?start=2
